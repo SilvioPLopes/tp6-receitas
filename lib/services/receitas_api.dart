@@ -1,4 +1,4 @@
-// Integrante: Silvio Lopes.
+// Integrante: Silvio Lopes, João Pedro.
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
