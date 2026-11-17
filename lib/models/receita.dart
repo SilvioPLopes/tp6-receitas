@@ -1,4 +1,4 @@
-// Integrante: Silvio Lopes.
+// Integrante: Silvio Lope, João Pedro.
 class Receita {
   const Receita({required this.nome, required this.imagem});
 
